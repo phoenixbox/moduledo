@@ -1,10 +1,11 @@
 require.config({
   baseUrl: '../',
   paths: {
-    jquery: 'lib/jquery',
-    underscore: 'lib/underscore',
-    backbone: 'lib/backbone',
-    text: 'lib/text',
+    jquery: "libs/jquery",
+    underscore: "libs/underscore",
+    backbone: "libs/backbone",
+    text: "libs/text",
+    localStorage: "libs/backbone.localStorage"
   },
 });
 
